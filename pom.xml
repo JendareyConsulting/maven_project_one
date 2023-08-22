@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.mt</groupId>
-    <artifactId>maven-web-application</artifactId>
+    <artifactId>jendarey-tech</artifactId>
     <version>0.0.1</version>
     <packaging>war</packaging>
 
@@ -116,7 +116,7 @@
                 <configuration>
                     <scanIntervalSeconds>10</scanIntervalSeconds>
                     <webApp>
-                        <contextPath>/maven-web-application</contextPath>
+                        <contextPath>/jendarey-tech</contextPath>
                     </webApp>
                 </configuration>
             </plugin>
@@ -129,7 +129,7 @@
                     <downloadSources>true</downloadSources>
                     <downloadJavadocs>true</downloadJavadocs>
                     <wtpversion>2.0</wtpversion>
-                    <wtpContextName>maven-web-application</wtpContextName>
+                    <wtpContextName>jendarey-tech</wtpContextName>
                 </configuration>
             </plugin>
         </plugins>
