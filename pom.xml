@@ -9,7 +9,7 @@
     <packaging>war</packaging>
 
     <name>jendarey-tech</name>
-    <description>Maven Web Project for Java Project</description>
+    <description>JendareyTech Web Java Project</description>
 
     <organization>
         <name>Jendarey Technologies</name>
