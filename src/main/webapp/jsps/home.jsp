@@ -10,8 +10,8 @@
 </head>
 <body>
 <h1 align="center">Welcome to Jendarey Consulting Inc. dba Jendarey Technologies</h1>
-<h1 align="center">DevOps Engineer Bootcamp Training!</h2>
-<h1 align="center">A Comprehensive Guide from Beginners to Experienced Professionals!</h2>
+<h2 align="center">DevOps Engineer Bootcamp Training!</h2>
+<h2 align="center">A Comprehensive Guide from Beginners to Experienced Professionals!</h2>
 
 	<h2 align="center"> Jendarey Technologies DevOps Engineer Bootcamp Training is your gateway to a rewarding and high-paying career as a DevOps Engineer. We're excited to help you embark on a journey of learning and skill development that will open doors to new opportunities in the world of technology. With our comprehensive training program, you'll gain expertise in essential DevOps tools and practices, equipping you to excel in the rapidly evolving landscape of software development and IT infrastructure. </h2>
 
@@ -49,10 +49,10 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center> Jendarey Consulting Inc - Consultant, IT training, and Software Development</p>
-<p align=center><small>Copyrights 2023 by <a href="https://devops.jendareyconsulting.com/">Jendarey Consulting Inc</a> </small></p>
-
+<p align="center">Jendarey Consulting Inc - Consultant, IT training, and Software Development</p>
+<p align="center"><small>Copyright © 2023 by <a href="https://devops.jendareyconsulting.com/">Jendarey Consulting Inc</a></small></p>
 </body>
 </html>
+
 
 
