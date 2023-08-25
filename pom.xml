@@ -96,7 +96,7 @@
     </distributionManagement>
 
     <build>
-        <finalName>jendarey-tech-webpage</finalName>
+        <finalName>a23-webpage</finalName>
 
         <plugins>
             <plugin>
