@@ -96,7 +96,7 @@
     </distributionManagement>
 
     <build>
-        <finalName>a23-webpage</finalName>
+        <finalName>classa23-webpage</finalName>
 
         <plugins>
             <plugin>
