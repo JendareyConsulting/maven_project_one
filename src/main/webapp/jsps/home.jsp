@@ -6,6 +6,13 @@
     <meta charset="UTF-8">
     <title>JendareyConsulting- Home Page</title>
     <link href="images/jendareyConsultingLogo.jpeg" rel="icon">
+    
+    <!-- Inline CSS for background color -->
+    <style>
+        body {
+            background-color: lightblue;
+        }
+    </style>
 </head>
 <body>
     <h1 style="text-align: center">Welcome to Jendarey Consulting Inc. dba Jendarey Technologies</h1>
@@ -61,7 +68,6 @@
     <p style="text-align: center"><small>Copyright © 2023 by <a href="https://devops.jendareyconsulting.com/">Jendarey Consulting Inc</a></small></p>
 </body>
 </html>
-
 
 
 
